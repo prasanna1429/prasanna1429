@@ -48,39 +48,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
 
-## 🚀 Portfolio Projects
-
-### 🍽️ Food Redistribution System
-A responsive full-stack web application built using **Angular, ASP.NET Core, and SQL Server** for secure donor, inventory, and distribution management.
-
-**Features:**
-- Donor registration
-- Food listing
-- Request matching
-- Role-based access control
-- RESTful API development
-- Swagger API documentation
-
----
-
-### 🎓 Student Management System
-A frontend web application built using **HTML, CSS, and JavaScript**.
-
-**Features:**
-- Student registration
-- Course enrollment
-- Performance tracking
-- Responsive user interface
-- Form validation
-
----
-
-### 🤖 TalkToons
-An academic **Generative AI** project built using **Python** to create cartoon-style characters and dialogues using deep learning concepts.
-
----
 
 ## 🏆 Achievements
 
@@ -88,31 +56,6 @@ An academic **Generative AI** project built using **Python** to create cartoon-s
 - Completed a **5-day Generative AI workshop** with hands-on exposure to AI tools and prompt engineering.
 - Organized and conducted a **Code Debugging event** during Tech Fest 2025.
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prasanna1429&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasanna1429&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanna1429&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prasanna1429&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
