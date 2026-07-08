@@ -77,4 +77,5 @@
   <img src="https://komarev.com/ghpvc/?username=prasanna1429&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<h3 align="center">Thanks for visiting my profile!</h3>
+<h3 align="center">
+  "Stay curious. Keep building."</h3>
