@@ -49,7 +49,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 
-
+![Prasanna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prasanna1429&bg_color=f5f5f5&color=3c2ac6&line=31c47f&point=342f41&area=true&hide_border=true)
 ## 🏆 Achievements
 
 - Participated in **Smart India Hackathon**, gaining experience in problem-solving and team-based development.
